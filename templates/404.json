@@ -13,6 +13,10 @@
     "template": {
       "type": "template-404",
       "settings": {
+        "title": "404",
+        "subtext_title": "The page you are looking for does not exist. Please check the URL and try again.",
+        "button_label": "Go back to homepage",
+        "button_url": "/"
       }
     }
   },
