@@ -3,7 +3,7 @@
     "layout": "custom_theme",
     "sections": 
         {
-            "tempplate": {
+            "template": {
                 "type": "template-404"
             }
         },
