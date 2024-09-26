@@ -1075,6 +1075,10 @@ video {
     padding: 2rem;
   }
 
+  .sm\:p-4 {
+    padding: 1rem;
+  }
+
   .sm\:px-0 {
     padding-left: 0px;
     padding-right: 0px;
@@ -1120,6 +1124,14 @@ video {
     --tw-space-x-reverse: 0;
     margin-right: calc(2.5rem * var(--tw-space-x-reverse));
     margin-left: calc(2.5rem * calc(1 - var(--tw-space-x-reverse)));
+  }
+
+  .md\:p-16 {
+    padding: 4rem;
+  }
+
+  .md\:p-8 {
+    padding: 2rem;
   }
 
   .md\:text-xl {
