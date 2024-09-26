@@ -1,58 +1,34 @@
-/*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
 {
-  "sections": {
-    "template": {
-      "type": "template-article",
-      "blocks": {
-        "article_title_Gw9A8E": {
-          "type": "article_title",
-          "settings": {
-          }
-        },
-        "article_published_date_zM7kX9": {
-          "type": "article_published_date",
-          "settings": {
-          }
-        },
-        "article_author_A8Ptw9": {
-          "type": "article_author",
-          "settings": {
-          }
-        },
-        "article_image_HE9a9m": {
-          "type": "article_image",
-          "settings": {
-          }
-        },
-        "article_content_RRUwgT": {
-          "type": "article_content",
-          "settings": {
-          }
+    "sections": {
+        "template": {
+            "type": "template-article",
+            "blocks": {
+                "title": {
+                    "type": "article_title"
+                },
+                "author": {
+                    "type": "article_author"
+                },
+                "published_date": {
+                    "type": "article_published_date"
+                },
+                "image": {
+                    "type": "article_image"
+                },
+                "content": {
+                    "type": "article_content"
+                }
+            },
+            "blocks_order": [
+                "title",
+                "author",
+                "published_date",
+                "image",
+                "content"
+            ]
         }
-      },
-      "block_order": [
-        "article_title_Gw9A8E",
-        "article_published_date_zM7kX9",
-        "article_author_A8Ptw9",
-        "article_image_HE9a9m",
-        "article_content_RRUwgT"
-      ],
-      "settings": {
-        "enable_author": true,
-        "enable_published_date": true,
-        "enable_article_image": true
-      }
-    }
-  },
-  "order": [
-    "template"
-  ]
+    },
+    "order": [
+        "template"
+    ]
 }
