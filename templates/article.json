@@ -17,18 +17,13 @@
           "settings": {
           }
         },
-        "article_published_date_4M79Cd": {
-          "type": "article_published_date",
-          "settings": {
-          }
-        },
         "article_author_WmALck": {
           "type": "article_author",
           "settings": {
           }
         },
-        "article_content_JEa8Qe": {
-          "type": "article_content",
+        "article_published_date_4M79Cd": {
+          "type": "article_published_date",
           "settings": {
           }
         },
@@ -36,14 +31,19 @@
           "type": "article_image",
           "settings": {
           }
+        },
+        "article_content_JEa8Qe": {
+          "type": "article_content",
+          "settings": {
+          }
         }
       },
       "block_order": [
         "article_title_wAVNpt",
-        "article_published_date_4M79Cd",
         "article_author_WmALck",
-        "article_content_JEa8Qe",
-        "article_image_Lw7CDx"
+        "article_published_date_4M79Cd",
+        "article_image_Lw7CDx",
+        "article_content_JEa8Qe"
       ],
       "settings": {
         "enable_author": true,
